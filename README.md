@@ -7,7 +7,7 @@ This project is an interactive AI chatbot designed to assist learners in underst
 
 🧠 Powered by OpenAI GPT (via API key)
 
-🌐 Gradio web interface for easy use
+
 
 📄 Prompt engineering for tailored answers
 
@@ -62,6 +62,6 @@ Science communication apps
 🧠 Technologies Used
 OpenAI GPT
 
-Gradio
+
 
 Python 3
